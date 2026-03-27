@@ -1,0 +1,17 @@
+1. BAŞLA
+2. Ekrana "Öğrenci Ortalamasını Giriniz:" yaz.
+3. Girilen ortalamayı oku. (oku)
+4. Ekrana "Öğrencinin Zayıf Ders Sayısını Giriniz:" yaz.
+5. Girilen zayıf adetini oku. (zayif)
+6. Eğer zayıf adeti sıfırsa 7. adıma değilse 12. adıma git.
+7. Eğer ortalama 85 ve üstü ise 8. adıma değilse 9. adıma git.
+8. Ekrana "Durum: Takdir Belgesi Takdim Edilir." yaz ve 17 adıma git.
+9. Eğer ortalama 70 ve üstü ise 10. adıma değilse 11. adıma git.
+10. Ekrana "Durum: Teşekkür Belgesi Takdim Edilir." yaz ve 17 adıma git.
+11. Ekrana "Durum: Sınıfı geçtiniz." yaz ve 17. adıma git.
+12. Eğer ortalama 50 ve üstü ise 13. adıma değilse 14. adıma git.
+13. Ekrana "Durum: Sınıfı geçtiniz." yaz ve 17. adıma git.
+14. Eğer ortalama 25 ve üstü ise 15. adıma değilse 16. adıma git.
+15. Ekrana "Durum: Ortalama Yükseltme ve Sorumluluk Sınavına giriniz." yaz ve 17. adıma git.
+16. Ekrana "Durum: Sınıfı tekrar ediniz." yaz.
+17. Bitir
